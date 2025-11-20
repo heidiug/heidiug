@@ -54,7 +54,7 @@
 
     * **Monorepo 架构设计**：设计了多包项目结构，将通用工具函数抽取到 `flow-utils` 包中，包括权限验证、Token 管理、日期格式化、HTTP 请求封装等工具函数。通过依赖注入的方式解决了 Monorepo 中共享包不能直接依赖应用包的问题，实现了代码的复用和解耦。
 
-* **[🔗 在线访问] | [🔗 [仓库源码](https://github.com/heidiug/frontend-project.git)]**
+* **[[🔗 稀土掘金](https://juejin.cn/post/7573170756868489268#heading-49] | [🔗 [仓库源码](https://github.com/heidiug/frontend-project.git)]**
 
 #### 🥈 [项目 B: C端项目或个人作品]
 * **技术栈:** `Vue 3` `Node.js` `...`
