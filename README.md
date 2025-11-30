@@ -1,4 +1,4 @@
-## 👋 你好，我是 [周平/heidiug]
+## 你好，我是 [周平/heidiug]
 
 我是一名来自 **成都信息工程大学** 的大四在读生，主攻前端开发方向。
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 💻 我的技术栈 (My Tech Stack)
+### 我的技术栈 (My Tech Stack)
 
 我熟悉现代前端开发流程，并热衷于使用 Vue 3 和 TypeScript 构建项目。
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🥇 [项目 A: EnterpriseFlow 流程协作平台]
+## [项目 A: EnterpriseFlow 流程协作平台]
 
 * **技术栈:** `Vue 3` `Vite` `TypeScript` `Pinia` `Element-Plus` `LogicFlow` `ECharts` `IndexedDB` `Axios`
 
@@ -56,7 +56,7 @@
 
 * **[[🔗 稀土掘金](https://juejin.cn/post/7573170756868489268#heading-49] | [🔗 [仓库源码](https://github.com/heidiug/frontend-project.git)]**
 
-## 🥇 [项目 B: zp-element-plus Vue 3 组件库]
+## [项目 B: zp-element-plus Vue 3 组件库]
 
 ## 技术栈
 Vue 3 | Vite | TypeScript | VitePress | async-validator | Vitest | FontAwesome | @floating-ui/vue | @popperjs/core | lodash-es
@@ -184,7 +184,7 @@ Vue 3 | Vite | TypeScript | VitePress | async-validator | Vitest | FontAwesome |
 
 ---
 
-### 💡 团队与经历 (My Experience)
+### 团队与经历 (My Experience)
 
 * **异步实验室 (Asynchronous Lab) | 核心成员** `(2022 - 至今)`
     * 在一个由技术驱动的社团中，参与过 X 次技术分享会（如 Vue 3 Composition API），并主导了 X 个团队项目的开发。
@@ -196,15 +196,15 @@ Vue 3 | Vite | TypeScript | VitePress | async-validator | Vitest | FontAwesome |
 
 ---
 
-### 🎨 关于我 (A Little More About Me)
+### 关于我 (A Little More About Me)
 
-* 🏸 **竞技者:** 羽毛球是我的“第二专业”，我享受竞技带来的专注感。
-* 🎨 **创造者:** 热爱绘画和设计，童年时获得过 **“成都市青少年人才艺术三等奖”**。这培养了我对 UI/UX 细节和美感的敏锐度。
-* 🌱 **学习者:** 我目前正在深入学习 [例如：Vite 插件开发 / Three.js / 微前端]...
+* **竞技者:** 羽毛球是我的“第二专业”，我享受竞技带来的专注感。
+* **创造者:** 热爱绘画和设计，童年时获得过 **“成都市青少年人才艺术三等奖”**。这培养了我对 UI/UX 细节和美感的敏锐度。
+* **学习者:** 我目前正在深入学习 [例如：Vite 插件开发 / Three.js / 微前端]...
 
 ---
 
-### 📫 如何联系我 (Find Me On)
+### 如何联系我 (Find Me On)
 
 * **Email:** `[1244252082@qq.com]`
 * **掘金 (Juejin):** `[你的掘金主页链接]` (如果你有的话，强烈推荐)
