@@ -21,7 +21,7 @@
 
 ---
 
-#### 🥇 [项目 A: EnterpriseFlow 流程协作平台]
+## 🥇 [项目 A: EnterpriseFlow 流程协作平台]
 
 * **技术栈:** `Vue 3` `Vite` `TypeScript` `Pinia` `Element-Plus` `LogicFlow` `ECharts` `IndexedDB` `Axios`
 
@@ -56,7 +56,7 @@
 
 * **[[🔗 稀土掘金](https://juejin.cn/post/7573170756868489268#heading-49] | [🔗 [仓库源码](https://github.com/heidiug/frontend-project.git)]**
 
-# 🥇 [项目 A: zp-element-plus Vue 3 组件库]
+## 🥇 [项目 B: zp-element-plus Vue 3 组件库]
 
 ## 技术栈
 Vue 3 | Vite | TypeScript | VitePress | async-validator | Vitest | FontAwesome | @floating-ui/vue | @popperjs/core | lodash-es
@@ -180,7 +180,7 @@ Vue 3 | Vite | TypeScript | VitePress | async-validator | Vitest | FontAwesome |
 **项目成果**：成功构建了一个功能完善、文档齐全、类型安全的企业级 Vue 3 组件库，为团队提供了高质量的 UI 组件和优秀的开发体验。
 
 
-* ** | [🔗 仓库源码https://github.com/heidiug/element-zp-plus]**
+* ** | [🔗 仓库源码](https://github.com/heidiug/element-zp-plus)]**
 
 ---
 
