@@ -20,6 +20,23 @@
 | **网络与工具** | `AJAX (Axios)` `RESTful API` `Git` |
 
 ---
+## 实习经验
+
+
+成都乐曼多科技有限公司 - 技术中心 - 前端开发工程师-AI 数字人视频创作平台
+
+
+2025.12 - 2026.3
+
+
+**技术栈**：`Vue3` `TypeScript` `Pinia` `Vue Router` `Vite` `Nuxt3`
+
+- 个人独立负责官网端与客户端共约 **40%** 模块的开发，涵盖数字形象、音色管理、身份鉴权等核心功能。
+- **Avatar 数字形象模块**：实现 6 列瀑布流布局（取模分列 + `aspect-ratio`），配合骨架屏将页面 CLS 从 0.32 降至 **0.01**；封装 `v-lazy` 懒加载指令（IntersectionObserver 单例 + WeakMap），结合 `rootMargin` 预加载与 `img.decode()` 异步解码，首屏图片请求量减少约 **65%**，长列表滚动帧率稳定在 **55fps+**。
+- **Voice 音色管理模块**：基于 MediaRecorder API 封装 `useAudioRecorder` Composable，采用**有限状态机**驱动 6 种 UI 状态流转（空闲→录音→上传→完成/异常），通过 computed 派生状态替代多层 `v-if` 嵌套，组件模板代码减少约 **40%**，新增状态扩展仅需修改状态转移表，显著提升可维护性。
+- **跨子域统一鉴权方案**：针对官网与客户端双站点登录态串扰问题，设计 Cookie domain 跨子域 Token 投递 + sessionStorage 标签页级会话隔离方案，彻底解决多标签页 Cookie/localStorage 互相覆盖问题；配合 Vue Router 全局前置守卫实现 Personal/API 双身份路由权限控制，覆盖全站 **20+** 页面鉴权逻辑。
+- **通用层封装与性能优化**：沉淀 ModalOverlay（Teleport + 滚动锁定 + 滚动条补偿）、useSearch（COS 签名 URL 的 Map 缓存 + 10min 过期淘汰）等 **6 个**可复用组件/Composable；首页采用 Promise.all 并发请求将数据加载耗时缩短约 **40%**，搜索场景通过 Debounce 防抖 + AbortController 取消过期请求解决竞态问题。
+
 
 ## [项目 A: EnterpriseFlow 流程协作平台]
 
